@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-I'm a Penetration Tester,Ethical Hacker and Data Science Enthusiast.🔭 I’m currently working as a Student-CodeIn Mentor and learning about Data science. Apart from this I love to develop new tools for hacking. 🌱 I'm command line user have worked more in scripting language and some cool technologies.
+I'm a Penetration Tester,Ethical Hacker and Data Science Enthusiast but I'm not a programmer.🔭 I’m currently working as a Student-CodeIn Mentor and learning about Data science. Apart from this I love to develop new tools for hacking. 🌱 I'm command line user have worked more in scripting language and some cool technologies.
 
 - 🔭 Github is my Instagram
 - 🔭 Linedlin is my facebook.
