@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 I'm just a noob or you can say script Kiddie.
 - 🔭 Github is my Instagram
-- 🔭 Linedlin is my facebook.
+- 🔭 Linkedin is my facebook.
 
 - 📫 How to reach me: dobhal.ankit@protonmail.com
 - ⚡ Fun fact: only work at night.:grin:
