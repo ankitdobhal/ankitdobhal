@@ -2,7 +2,6 @@
 <h3 align="center">Penetration Tester 👨‍💻 || Data Science Enthusiast  🐦|| Blogger ⚛️ || Pythoneer 🐍</h3>
 
 
-Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on **Docker**
 
