@@ -2,7 +2,6 @@
 <h3 align="center">Penetration Tester 👨‍💻 || Data Science Enthusiast  🐦|| Blogger ⚛️ || Pythoneer 🐍</h3>
 
 
--->
 - 🔭 I’m currently working on **Docker**
 
 - 🌱 I’m currently learning **Exploit , Data Science, Container, Automation, Machine Learning**
