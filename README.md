@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Dobhal</h1>
-<h3 align="center">Penetration Tester 👨‍💻 || Data Science Enthusisat  🐦|| Blogger ⚛️ || Pythoneer 🐍</h3>
+<h3 align="center">Penetration Tester 👨‍💻 || Data Science Enthusiast  🐦|| Blogger ⚛️ || Pythoneer 🐍</h3>
 
 
 Here are some ideas to get you started:
