@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Docker**
 
-- 🌱 I’m currently learning **Exploit , Data Science, Container, Automation, Machine Learning**
+- 🌱 I’m currently exploring **DevsecOps , Data Science, Container, Automation, Machine Learning**
 
 - 👯 I’m looking to collaborate on [Ashok](https://github.com/ankitdobhal/Ashok)
 
